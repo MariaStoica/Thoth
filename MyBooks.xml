@@ -1,0 +1,31 @@
+<Root>
+	<Category name="fiction">
+		<Book title="Discworld Novel 4"/>
+		<Book title="Discworld Novel 5"/>
+		<Book title="Discworld Novel 6"/>
+	</Category>
+	<Category name="technical">
+		<Book title="Modern Authentication with Azure Active Directory for Web Applications"/>
+		<Book title="Google SRE"/>
+		<Book title="Clean Code"/>
+		<Book title="Code Reading"/>
+		<Book title="Peer Review"/>
+		<Book title="Cracking the Coding Interview"/>
+	</Category>
+	<Category name="selfdev">
+		<Book title="Give and Take"/>
+		<Book title="Getting Things Done"/>
+		<Book title="7 Stages of Creativity"/>
+		<Book title="7 Habits of Highly Effective People"/>
+		<Book title="How to talk like TED"/>
+		<Book title="TED Storytelling techniques"/>
+	</Category>
+	<Category name="interesting">
+		<Book title="Cosmos"/>
+		<Book title="Curious"/>
+		<Book title="Humans 3.0"/>
+		<Book title="Atlas Obscura"/>
+		<Book title="Guns, Germs, and Steel"/>
+		<Book title="The Design of Everyday Objects"/>
+	</Category>
+</Root>
