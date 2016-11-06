@@ -6,7 +6,7 @@ Input: an xml file with your ranked books in each category
 
 Output: a txt file with the book titles in the proposed reading order
 
-Run: `python thot.py nameOfStartingCategory`
+Run: `python thoth.py nameOfStartingCategory`
 
 My reading list rules:
 
